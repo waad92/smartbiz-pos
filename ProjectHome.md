@@ -1,0 +1,1 @@
+Smart e-Business POS (Point Of Sales) for Restaurant, fashion, and retail industry.
